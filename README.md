@@ -1,3 +1,4 @@
+
 # Montreal BIXI Real-Time Monitoring Platform
 
 A full-stack data engineering project designed to track, archive, and visualize the status of Montreal's BIXI bike-share network in real-time. Built during the November 2025 STM Strike!
@@ -28,4 +29,15 @@ approx. 1,000 insertions every 5 minutes.
 * `system_aggregate_log`: Stores computed metrics per time-step to reduce load on the dashboard side.
 
 ### Gallery
+Statuses over time
+
+<img width="809" height="755" alt="charts" src="https://github.com/user-attachments/assets/f4f30f42-cf7e-4904-ba85-b00b8fc061cd" />
+
+Incoming and outgoing trips by neighborhood 
+
+<img width="2459" height="2584" alt="chord_diagram" src="https://github.com/user-attachments/assets/17fbeb1d-295c-4afe-ab44-8922c01bba02" />
+
+Station map
+
+<img width="830" height="739" alt="map" src="https://github.com/user-attachments/assets/c216f121-32ea-4db9-9f37-5f42fd33a49f" />
 
